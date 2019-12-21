@@ -1,0 +1,23 @@
+.navbar {
+  box-shadow: 0 3px 7px #000000;
+}
+
+#disp {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.8), rgba(32, 39, 2, 0.9)),
+    url("./components/assets/images/bg.jpg");
+  height: 400px;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.btn {
+  padding: 10px 20px;
+  background-color: #f8e00b;
+  font-weight: bold;
+  box-shadow: 3px 3px 3px #999;
+}
+.m-me {
+  margin-left: 35%;
+  margin-top: 5%;
+}

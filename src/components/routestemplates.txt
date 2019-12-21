@@ -1,0 +1,12 @@
+      {/* <div>
+        <Router>
+          <Switch>
+            <Route exact path="/" component={Home} />
+            <Route path="/cart" component={Cart} />
+            <Route path="/login" component={Login} />
+            <Route path="/register" component={Register} />
+            <ProtectedRoute exact={false} path="/admin" component={Admin} />
+            <Route path="*" component={NotFound} />
+          </Switch>
+        </Router>
+      </div> */}
